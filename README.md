@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I am passionate Front-end Developer</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **TypeScript**
 
 
 <h3 align="left">Languages and Tools:</h3>

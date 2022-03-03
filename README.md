@@ -34,9 +34,9 @@
  
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-g%C5%82uch/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisguh&show_icons=true&locale=en&layout=compact" alt="thisguh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damian-guh&show_icons=true&locale=en&layout=compact" alt="damian-guh" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisGuh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damian-guh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
